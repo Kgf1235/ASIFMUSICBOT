@@ -1,8 +1,8 @@
 {
-    "name": "ɴɪxᴀ ᴍᴜsɪᴄ ʙᴏᴛ",
+    "name": "asifmusicbot",
     "description": "Music allow you to stream music trought the telegram voice chat feature Based on Telethon.",
-    "keywords": ["NIXA", "Nixa-Music-Bot", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/kassim752/NixaMusicBot",
+    "keywords": ["ASIF", "ASIF-Music-Bot", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
+    "repository": "https://github.com/Kgf1235/ASIFMUSICBOT",
   "stack": "container",
     "env": {
         "STRING_SESSION": {
@@ -22,7 +22,7 @@
          "BOT_USERNAME": {
             "description": "bot username without @",
             "required": false,
-            "value": "NixaMusic2Bot"
+            "value": "Ishq_ka_raja_143"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
