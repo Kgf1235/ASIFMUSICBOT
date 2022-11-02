@@ -6,17 +6,17 @@ from Config import BOT_USERNAME
 async def start(event):
     await event.reply("ʜᴇʟʟᴏ ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴍᴜsɪᴄ ʙᴏᴛ
 ᴀɴᴅ ɴᴏ ʟᴀɢ ɪssᴜᴇ ᴡɪᴛʜ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴛʜɪs ᴍᴜsɪᴄ ʙᴏᴛ ʙᴀsᴇᴅ ᴏɴ ᴛᴇʟᴇᴛʜᴏɴ
- ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ʏᴀꜱʜ ...",
+@Loveofmusic_assistant ...",
                     buttons=[
                         [
                           Button.url("➕ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="https://t.me/{BOT_USERNAME}?startgroup=true")],
                        ],
                        [
-                          Button.url("• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/FRIENDS_DRAMA_CLUB"),
-                          Button.url("• ᴜᴘᴅᴀᴛᴇs •", url="https://t.me/TechQuard")
+                          Button.url("• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/loveofmusicsupport"),
+                          Button.url("• ᴏᴡɴᴇʀ •", url="https://t.me/LoCaL_kInG_01")
                        ],
                        [
-                          Button.url("• ᴅᴇᴠᴇʟᴏᴘᴇʀ •", url="https://t.me/give_up_to_god"),
-                          Button.url("• ʏᴏᴜᴛᴜʙᴇ •", url="https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw")
+                          Button.url("• ᴀssɪsᴛᴀɴᴛ •", url="https://t.me/Loveofmusic_assistant"),
+                          Button.url("• ᴛʜᴀᴍʙɪ    •", url="https://t.me/kassim_darlzzz")
                        ]
                        )
