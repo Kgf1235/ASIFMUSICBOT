@@ -5,12 +5,12 @@ from telethon import Button, events
 from NIXA import *
 
 IMG = os.environ.get(
-    "PING_PIC", "https://telegra.ph/file/83fe7f289d905033724b4.jpg"
+    "PING_PIC", "https://telegra.ph/file/8a8b83c89ebd4cf872a19.jpg"
 )
 ms = 4
 
 ALIVE = os.environ.get(
-    "ALIVE", "@Loveofmusic_assistant"
+    "ALIVE", "@Ishq_ka_raja_143"
 )
 
 CAPTION = f"**𝗣 𝗢 𝗡 𝗚 😂 **\n\n   » {ms}\n   » ᴍʏ ᴍᴀsᴛᴇʀ ~『{ALIVE}』"
@@ -19,7 +19,7 @@ CAPTION = f"**𝗣 𝗢 𝗡 𝗚 😂 **\n\n   » {ms}\n   » ᴍʏ ᴍᴀsᴛ�
 @NIXA.on(events.NewMessage(pattern="^/ping"))
 async def _(event):
     UMM = [[
-             Button.url("• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/Loveofmusic_assistant"),
-             Button.url("• ᴏᴡɴᴇʀ •", url="•https://t.me/LoCaL_kInG_01")
+             Button.url("• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/DX_LUCKY"),
+             Button.url("• ᴏᴡɴᴇʀ •", url="•https://t.me/Ishq_ka_raja_143")
                        ]]
     await NIXA.send_file(event.chat_id, IMG, caption=CAPTION, buttons=UMM)
