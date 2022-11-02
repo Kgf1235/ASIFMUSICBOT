@@ -20,6 +20,6 @@ CAPTION = f"**𝗣 𝗢 𝗡 𝗚 😂 **\n\n   » {ms}\n   » ᴍʏ ᴍᴀsᴛ�
 async def _(event):
     UMM = [[
              Button.url("• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/Loveofmusic_assistant"),
-             Button.url("• ᴏᴡɴᴇʀ •", url="•"https://t.me/LoCaL_kInG_01")")
+             Button.url("• ᴏᴡɴᴇʀ •", url="•https://t.me/LoCaL_kInG_01")
                        ]]
     await NIXA.send_file(event.chat_id, IMG, caption=CAPTION, buttons=UMM)
