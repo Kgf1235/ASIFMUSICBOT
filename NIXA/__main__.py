@@ -19,7 +19,7 @@ for name in files:
         load_plugins(plugin_name.replace(".py", ""))
     
 print("» sᴜᴄᴄᴇssғᴜʟʟʏ sᴛᴀʀᴛᴇᴅ ʙᴏᴛ...")
-print("» ᴘʟᴇᴀsᴇ ᴊᴏɪɴ ᴛʜᴇsᴇ ᴄʜᴀɴɴᴇʟ @TechQuard")
+print("» ᴘʟᴇᴀsᴇ ᴊᴏɪɴ ᴛʜᴇsᴇ ᴄʜᴀɴɴᴇʟ @loveofmusicsupport")
 
 if __name__ == "__main__":
     NIXA.run_until_disconnected()
