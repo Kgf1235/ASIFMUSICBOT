@@ -12,11 +12,11 @@ async def start(event):
                           Button.url("➕ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="https://t.me/{BOT_USERNAME}?startgroup=true")],
                        ],
                        [
-                          Button.url("• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/loveofmusicsupport"),
-                          Button.url("• ᴏᴡɴᴇʀ •", url="https://t.me/LoCaL_kInG_01")
+                          Button.url("• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/all_bot_lucky"),
+                          Button.url("• ᴏᴡɴᴇʀ •", url="https://t.me/Ishq_ka_raja_143")
                        ],
                        [
-                          Button.url("• ᴀssɪsᴛᴀɴᴛ •", url="https://t.me/Loveofmusic_assistant"),
-                          Button.url("• ᴛʜᴀᴍʙɪ    •", url="https://t.me/kassim_darlzzz")
+                          Button.url("• ᴀssɪsᴛᴀɴᴛ •", url="https://t.me/DX_LUCKY"),
+                          Button.url("• ᴛʜᴀᴍʙɪ    •", url="https://t.me/all_bot_lucky")
                        ]
                        )
